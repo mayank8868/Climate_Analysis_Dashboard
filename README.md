@@ -65,8 +65,7 @@ pip install -r requirements.txt
 
 streamlit run Climate_analysis_webapp.py  
 
-4️⃣ Open in Browser
-Once the app is running, open http://localhost:8501 in your browser.
+
 
 🔥 Future Improvements
 
