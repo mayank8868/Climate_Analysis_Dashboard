@@ -59,11 +59,7 @@ cd Climate_Analysis_Dashboard
 2️⃣ Install Dependencies
 Ensure you have Python 3.8+ installed, then install the required libraries:
 
-pip install -r requirements.txt  
-
-3️⃣ Run the Application
-
-streamlit run Climate_analysis_webapp.py  
+pip install -r requirements.txt   
 
 
 
